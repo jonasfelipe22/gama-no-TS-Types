@@ -1,0 +1,26 @@
+{
+  "name": "gama-no-ts-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonasfelipe22/gama-no-TS-Types.git"
+  },
+  "author": "Jonas Barros <jonasfelipester@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "description": "<p><h1>Tipos de elementos no TS</h1> <p>String: Valores textuais podendo conter até mesmo números. <p>Boolean: Valores onde existem apenas 2 opções, sendo elas true ou false. <p>Number: São valores numéricos, sendo eles fracionados ou inteiros. <p>Array: São vetores compondo qualquer outro tipo mencionado acima. <p>Tuple: São valores numéricos dentro de um Array. Enum: São tipos de atribuições parametrizados por chaves. <p>Any: Pode ser qualquer valor ou tipo. <p>Void: Muito utilizado em funções, onde é informado um valor vazio.",
+  "bugs": {
+    "url": "https://github.com/jonasfelipe22/gama-no-TS-Types/issues"
+  },
+  "homepage": "https://github.com/jonasfelipe22/gama-no-TS-Types#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
