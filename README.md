@@ -1,4 +1,4 @@
-<p><h1>Tipos de elementos no TS
+<p><h1>Tipos de elementos no TS</h1>
 <p>String: Valores textuais podendo conter até
 mesmo números.
 <p>Boolean: Valores onde existem apenas 2 opções,
